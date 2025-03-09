@@ -76,9 +76,9 @@ const About = () => {
         ABOUT ME
       </h2>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 ">
         <div className="relative">
-          <div className="aspect-square bg-yellow-400 w-full max-w-lg transform rotate-3 animate-float"></div>
+          <div className="aspect-square bg-yellow-400 w-full max-w-lg transform rotate-3 animate-float "></div>
           <img
             src="https://res.cloudinary.com/dbg7s7ai2/image/upload/v1741431551/profile_aajcer.jpg"
             alt="About Me"

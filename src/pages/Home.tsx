@@ -24,7 +24,7 @@ const HomePage: React.FC<HomePageProps> = ({ navigateTo }) => {
             I build exceptional digital experiences with clean code and brutal
             design.
           </p>
-          <div className="flex flex-wrap gap-4">
+          <div className="flex flex-row gap-4">
             <button
               onClick={() => navigateTo("projects")}
               className="px-8 py-4 bg-red-500 text-white font-bold rounded-none transform hover:translate-y-2 transition-transform shadow-[8px_8px_0px_0px_rgba(0,0,0,0.8)] dark:shadow-[8px_8px_0px_0px_rgba(255,255,255,0.8)]"
