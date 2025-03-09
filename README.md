@@ -1,12 +1,10 @@
-Tentu! Berikut adalah contoh file `README.md` untuk website portofolio Anda yang di-deploy ke GitHub Pages. Anda bisa menyesuaikan kontennya sesuai kebutuhan.
-
 ---
 
 # **Portofolio Website**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/react-portofolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/react-portofolio)
-![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/react-portofolio/github-pages)
+![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/My-React-Portofolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/My-React-Portofolio)
+![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/My-React-Portofolio/github-pages)
 
 Selamat datang di repositori website portofolio saya! Website ini dibangun menggunakan **React** dan di-deploy ke **GitHub Pages**. Website ini menampilkan informasi tentang saya, proyek-proyek yang telah saya kerjakan, dan cara menghubungi saya.
 
@@ -128,5 +126,3 @@ Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan kirim email k
 Terima kasih telah mengunjungi repositori ini! 😊
 
 ---
-
-Anda bisa menyalin dan menempelkan konten di atas ke file `README.md` di repositori Anda. Jangan lupa untuk menyesuaikan detail seperti nama, email, dan URL sesuai dengan informasi Anda. Semoga membantu! 😊
