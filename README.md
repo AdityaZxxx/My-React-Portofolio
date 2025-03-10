@@ -2,9 +2,9 @@
 
 # **Portofolio Website**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/Portofolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/Portofolio)
-![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/Portofolio/github-pages)
+![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/portofolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/portofolio)
+![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/portofolio/github-pages)
 
 Selamat datang di repositori website portofolio saya! Website ini dibangun menggunakan **React** dan di-deploy ke **GitHub Pages**. Website ini menampilkan informasi tentang saya, proyek-proyek yang telah saya kerjakan, dan cara menghubungi saya.
 
@@ -118,7 +118,7 @@ Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan kirim email k
 ---
 
 ## **Tautan**
-- [Live Demo](https://adityazxxx.github.io/portofolio)
+- [Live Demo](https://adityazxxx.github.io/portofolio/)
 - [Repositori GitHub](https://github.com/adityazxxx/portofolio)
 
 ---
