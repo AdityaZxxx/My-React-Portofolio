@@ -2,9 +2,9 @@
 
 # **Portofolio Website**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/My-React-Portofolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/My-React-Portofolio)
-![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/My-React-Portofolio/github-pages)
+![GitHub last commit](https://img.shields.io/github/last-commit/adityazxxx/Portofolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/adityazxxx/Portofolio)
+![GitHub deployments](https://img.shields.io/github/deployments/adityazxxx/Portofolio/github-pages)
 
 Selamat datang di repositori website portofolio saya! Website ini dibangun menggunakan **React** dan di-deploy ke **GitHub Pages**. Website ini menampilkan informasi tentang saya, proyek-proyek yang telah saya kerjakan, dan cara menghubungi saya.
 
@@ -42,8 +42,8 @@ Selamat datang di repositori website portofolio saya! Website ini dibangun mengg
 ### **Langkah-langkah**
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/adityazxxx/react-portofolio.git
-   cd react-portofolio
+   git clone https://github.com/adityazxxx/portofolio.git
+   cd portofolio
    ```
 
 2. **Instal dependencies**:
@@ -73,13 +73,13 @@ Selamat datang di repositori website portofolio saya! Website ini dibangun mengg
    ```
 
 3. Buka GitHub Pages di URL:  
-   `https://adityazxxx.github.io/react-portofolio`
+   `https://adityazxxx.github.io/portofolio`
 
 ---
 
 ## **Struktur Proyek**
 ```
-react-portofolio/
+portofolio/
 ├── public/              # File-file statis (favicon, gambar, dll.)
 ├── src/                 # Kode sumber proyek
 │   ├── components/      # Komponen React
@@ -118,8 +118,8 @@ Jika Anda memiliki pertanyaan atau ingin menghubungi saya, silakan kirim email k
 ---
 
 ## **Tautan**
-- [Live Demo](https://adityazxxx.github.io/react-portofolio)
-- [Repositori GitHub](https://github.com/adityazxxx/react-portofolio)
+- [Live Demo](https://adityazxxx.github.io/portofolio)
+- [Repositori GitHub](https://github.com/adityazxxx/portofolio)
 
 ---
 
